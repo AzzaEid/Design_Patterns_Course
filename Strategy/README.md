@@ -31,7 +31,7 @@ We implemented the instructor's challenge which involved the following tasks:
 
 > The screenshot here showing user interaction and the behavior change at runtime.
 
-![output screenshot](/Output.png)
+![outputscreenshot](https://github.com/user-attachments/assets/09a38a33-ab57-47f9-95e1-6dcdee274a21)
 
 ---
 
@@ -48,4 +48,4 @@ This could be improved using **dependency injection**, **singleton**, or a **beh
 
 ### 📐 Class Diagram 
 
-![classdiagram](/class%20diagram.png)
+![classdiagram](https://github.com/user-attachments/assets/4d8cfe29-6582-4881-8dcc-c11e2408ff63)
