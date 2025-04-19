@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\bin\Debug\net8.0\Strategy.exe
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\bin\Debug\net8.0\Strategy.deps.json
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\bin\Debug\net8.0\Strategy.dll
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\bin\Debug\net8.0\Strategy.pdb
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\obj\Debug\net8.0\Strategy.sourcelink.json
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\obj\Debug\net8.0\Strategy.dll
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\obj\Debug\net8.0\Strategy.pdb
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+C:\Users\DELL\Desktop\BACKEND\C#\Design_Patterns_Course\Strategy\obj\Debug\net8.0\ref\Strategy.dll
