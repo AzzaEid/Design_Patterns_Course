@@ -96,6 +96,8 @@ protected void OnMeasurementsChanged()
 The `event` keyword ensures only the publisher can trigger the event, making it safer and more predictable.
 
 ---
+![Image](https://github.com/user-attachments/assets/6139ed0f-8367-43cb-9135-117669268ce3)
+---
 ## Result
 ![Output](https://github.com/user-attachments/assets/a242fa43-883e-4efa-b9e1-a23aa8710079)
 

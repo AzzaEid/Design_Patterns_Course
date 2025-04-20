@@ -81,4 +81,4 @@ These features provide a **simplified, language-level implementation** of the pa
 
 > This native approach promotes decoupled and safe communication between components, making the observer behavior more intuitive and less error-prone.
 
-For a side-by-side comparison between the manual Observer Pattern and C#'s `event`-based alternative, check out the related project: [EventPatternComparison](../EventPatternComparison).
+For a side-by-side comparison between the manual Observer Pattern and C#'s `event`-based alternative, check out the related project: [EventPatternComparison](https://github.com/AzzaEid/Design_Patterns_Course/blob/master/Observer/EventBasedWeatherStation/README.md).
