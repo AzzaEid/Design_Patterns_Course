@@ -14,6 +14,7 @@ namespace Observer
             Console.WriteLine("Choose mode:");
             Console.WriteLine("1. Push");
             Console.WriteLine("2. Pull");
+            Console.WriteLine("3. Event");
             Console.Write("Enter your choice: ");
             var choice = Console.ReadLine();
 
@@ -24,6 +25,10 @@ namespace Observer
             else if (choice == "2")
             {
                 RunPullMode();
+            }
+            else if (choice == "3")
+            {
+                RunEventMode();
             }
             else
             {
@@ -89,6 +94,27 @@ namespace Observer
 
             Console.WriteLine("\nUpdating WeatherData again with: 75, 60, 29.5f");
             weatherData.setMeasurements(75, 60, 29.5f);
+        }
+        public static void RunEventMode()
+        {
+            var weatherData = new EventBasedWeatherStation.WeatherData();
+
+            var currentDisplay = new EventBasedWeatherStation.CurrentConditionsDisplay();
+            var forecastDisplay = new EventBasedWeatherStation.ForecastDisplay();
+            var statisticsDisplay = new EventBasedWeatherStation.StatisticsDisplay();
+
+            currentDisplay.Subscribe(weatherData);
+            forecastDisplay.Subscribe(weatherData);
+            statisticsDisplay.Subscribe(weatherData);
+
+            weatherData.SetMeasurements(80, 65, 30.4f);
+            weatherData.SetMeasurements(82, 70, 29.2f);
+            weatherData.SetMeasurements(78, 90, 29.2f);
+
+            Console.WriteLine("\nRemoving StatisticsDisplay...\n");
+            statisticsDisplay.Unsubscribe(weatherData);
+
+            weatherData.SetMeasurements(75, 60, 29.5f);
         }
     }
     

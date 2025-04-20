@@ -73,3 +73,12 @@ When implementing Pull, I added another interface layer to avoid direct dependen
 
 ---
 
+### 🧠 Language-Level Abstraction: How C# Natively Implements the Observer Pattern
+
+While this project manually demonstrates the **Observer Pattern** (in both push and pull styles), it's important to note that **C# offers a built-in abstraction** using the `event` and `delegate` keywords.
+
+These features provide a **simplified, language-level implementation** of the pattern—eliminating the need to manually manage subjects, observers, or registration logic. Instead, objects can **subscribe and react to changes** through a concise and type-safe mechanism.
+
+> This native approach promotes decoupled and safe communication between components, making the observer behavior more intuitive and less error-prone.
+
+For a side-by-side comparison between the manual Observer Pattern and C#'s `event`-based alternative, check out the related project: [EventPatternComparison](../EventPatternComparison).
