@@ -87,7 +87,6 @@ namespace Decorator
                         break;
                 }
             }
-
             Console.WriteLine("\nYour Order Summary:");
             Console.WriteLine( myCoffee.getDescription());
             Console.WriteLine("-------------------");

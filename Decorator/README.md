@@ -49,15 +49,9 @@ I tried to make the code experience more interactive and friendly by adding a si
 
 ## 🔚 Final Thoughts
 
-Is the project complete? Not really 😊  
-It still needs some improvements and polish.
+This pattern was genuinely fun to implement —— mostly because of the **fun and delicious** kind of systems where it fits naturally 🙄
 
-But honestly, working on this pattern was super fun — mostly because of the **fun and delicious** kind of systems where it fits naturally 🙄
+But one thing kept bothering me: the heavy use of nested `new` calls. It works, but feels messy.  🤷🏻‍♀️
 
-Still... I keep wondering 🤷🏻‍♀️  
-Would applying this pattern in **larger systems** be just as smooth?  
-Maybe I'll find out someday 😌
-
----
-
-Let me know if you'd like to add sections like setup instructions, usage, or future work!
+Is that just a readability issue, or a sign of deeper design flaws? 🤔  
+Maybe I’ll figure it out as I try it in larger, real-world systems.

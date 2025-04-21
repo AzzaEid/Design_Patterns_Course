@@ -47,11 +47,9 @@ This is ideal for notifying subscribers in a clean, decoupled way.
 ## 🖼️ Visual Explanation
 
 1. **Delegate pointing to multiple methods**  
-   📌 
    ![Delegate list](https://github.com/user-attachments/assets/28b6727c-c889-405d-b7f4-a3e0fccf8865)
 
 2. **Event publisher/subscriber model**  
-   📌
    ![Event publisher/subscriber model](https://github.com/user-attachments/assets/c17b9dd7-7a13-43f1-bdf2-fa17663ff476)
 
 ---
